@@ -124,7 +124,7 @@ gitのリポジトリはcloneした時点で、githubサーバー(リモート�
 
 これよりリポジトリをクローンしたディレクトリを`@`としてパスに表記するよ
 
-僕の環境では `E:\Users\Raiti\Document\School`にクローンしたので`@\Tutorial\Raiti\test.txt`は`E:\Users\Raiti\Document\School\Project\Tutorial\Raiti\test\txt`を指すことになるよ
+僕の環境では `E:\Users\Raiti\Document\School`にクローンしたので`@\Tutorial\Raiti\test.txt`は`E:\Users\Raiti\Document\School\Project\Tutorial\Raiti\test.txt`を指すことになるよ
 
 その中に`test.txt`というテキストファイルでも作って中身も適当に書き込もう。`@\Tutorial\各自名前\test.txt`
 
